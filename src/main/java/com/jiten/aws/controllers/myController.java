@@ -10,6 +10,6 @@ public class myController {
 
     @GetMapping
     public String display(){
-        return "I am Jitendra.";
+        return "I am Jitendra Poudel.";
     }
 }
